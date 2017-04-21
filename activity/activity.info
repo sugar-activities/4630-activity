@@ -1,0 +1,8 @@
+[Activity]
+name = vp (vonskeet productions)
+bundle_id = org.laptop.vp(vonskeetproductions)
+service_name = org.laptop.vp(vonskeetproductions)
+icon = activity-default
+class = vp(vonskeetproductions)_app.vp(vonskeetproductions)Activity
+activity_version = 1
+show_launcher = yes
